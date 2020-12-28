@@ -2,7 +2,8 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://datou.fun
+#url: http://datou.fun
+url: https://wangouba.github.io/
 date_format: "ordinal"
 title: 王大头
 subtitle: "你好"
